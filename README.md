@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @erin179oconnor
+- 👀 I’m interested in front-end development and user interface design
+- 🌱 I’m currently learning Angular, React, and SAP Fiori
+- 📫 Reach me at erin179oconnor@gmail.com
